@@ -14,6 +14,6 @@ Steps -
 4. run below commands
 5. terraform init - this will downaload aws plugins required for terraform
 6. terraform apply - this will create all the resources
-7. grab the server IP from the outputs and hit the url in browser - http://<public-ip>:80
+7. grab the server IP from the outputs and hit the url in browser - http://public-ip:80
 8. Expected output - This is your web server that was created through terraform
 9. terrafrom destroy
